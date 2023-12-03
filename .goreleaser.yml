@@ -10,5 +10,5 @@ builds:
 
 release:
   github:
-    owner: sei40kr
-    name: fast-alias-tips-bin
+    owner: angkeith
+    name: zsh-fast-alias-tips
